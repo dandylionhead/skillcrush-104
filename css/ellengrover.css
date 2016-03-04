@@ -1,0 +1,45 @@
+body {
+	background-color: #333333;
+}
+
+header h1 {
+	font-family: 'Special Elite', cursive;
+	color: #3CB2D6;
+	font-size: 3em;
+}
+
+header a {
+	text-decoration: none;
+	float: right;
+	display: inline;
+	padding: 1em 2em;
+	color: #fff;
+	background-color: #3CB2D6;
+	border-radius: .5em;
+	border: .1em #fff solid;
+}
+
+header a:hover {
+	background-color: #098DB5;
+	border: .1em #666 solid;
+}
+
+.advice h4 {
+	color: #999999;
+	font-family: 'Raleway 700', sans-serif;
+	font-size: 24px;
+}
+
+.advice p {
+	color: #ffffff;
+	font-family: 'Raleway', sans-serif;
+	font-size: 16px;
+}
+
+.advice a {
+	text-decoration: none;
+}
+
+.advice a:hover {
+	color: #ffffff;
+}
